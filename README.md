@@ -1,6 +1,10 @@
 # MultiGrNMF
 source code of my paper "Multiple graph regularized nonnegative matrix factorization"
 
+example of using the code is at https://github.com/jingyanwang/MultiGrNMF/blob/master/MultiGrNMF_Example_4_8_a.m
+
+## paper information
+
 Jim Jing-Yan Wang, Halima Bensmail, Xin Gao,
 
 Multiple graph regularized nonnegative matrix factorization,
